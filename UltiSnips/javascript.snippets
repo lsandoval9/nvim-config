@@ -1,0 +1,27 @@
+snippet rfce "React functional component"
+
+import React from "react"
+
+function $1() {
+
+	return(
+		<div>
+		</div>
+	)
+
+}
+
+
+export default $1;
+endsnippet
+
+
+snippet useState "useState hook"
+const [$1, use$1] = useState();
+endsnippet
+
+snippet useEffect "useEffect hook"
+useEffect( () => {
+	$1
+}, $2);
+endsnippet

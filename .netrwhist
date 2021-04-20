@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/lsandoval9/Documents/CS50x final project/front/spring-media-react/src/pages/detector/components/pages'
+let g:netrw_dirhist_3='/home/lsandoval9/Documents/CS50x final project/front/spring-media-react/src/pages/detector/components'
+let g:netrw_dirhist_2='/home/lsandoval9/Documents/CS50x final project/front/spring-media-react/src/pages/detector'
+let g:netrw_dirhist_1='/home/lsandoval9/Documents/courses/vim'
